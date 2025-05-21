@@ -1,0 +1,7 @@
+numpy<2
+sounddevice
+scipy
+openai-whisper
+deep-translator
+certifi
+tk
