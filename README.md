@@ -20,8 +20,8 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/CopzLIVE/audio-translator.git
-cd audio-translator
+git clone https://github.com/CopzLIVE/Real-Time-Audio-Translator.git
+cd Real-Time-Audio-Translator
 ```
 ### 2. Create a virtual environment
 ```bash
